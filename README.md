@@ -9,3 +9,6 @@ Example of filter on tables with some advanced options for study, "streams" were
 <p align="center">
  <img src="https://github.com/rodrigocananea/java-table-filter-highlight/blob/master/example-table-filter-highlight.gif" />
 </p>
+
+example created from this article with few modifications:
+https://www.logicbig.com/tutorials/java-swing/jtable-row-filter-highlighting.html
