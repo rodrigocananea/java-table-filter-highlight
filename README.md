@@ -7,5 +7,5 @@ Example of filter on tables with some advanced options for study, "streams" were
 ***GIF from the example below:***
 
 <p align="center">
-![](example-table-filter-highlight.gif)
+<img src="https://github.com/rodrigocananea/java-table-filter-highlight/blob/master/example-table-filter-highlight.gif" />
  </p>
