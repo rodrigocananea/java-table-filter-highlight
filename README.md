@@ -6,4 +6,6 @@ Example of filter on tables with some advanced options for study, "streams" were
 
 ***GIF from the example below:***
 
+<p align="center">
 ![](example-table-filter-highlight.gif)
+ </p>
